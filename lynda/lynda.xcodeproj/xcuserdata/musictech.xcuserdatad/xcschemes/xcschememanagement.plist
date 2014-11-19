@@ -4,15 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>practice.xcscheme</key>
+		<key>lynda.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D24AA16A1A005055009BA4D1</key>
+		<key>D268897B1A16DC6500C85469</key>
 		<dict>
 			<key>primary</key>
 			<true/>
